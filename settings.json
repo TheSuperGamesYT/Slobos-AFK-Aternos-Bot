@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "202.181.188.143:25737",
+    "ip": "ip202-181-188-143.joinserver.xyz:25737",
     "port": 42787,
     "version": "1.21.10",
     "try-creative": false
